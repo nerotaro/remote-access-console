@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "controlpanel", "nero\controlpanel.csproj", "{264EDFBA-B0AB-459A-80E8-548E52F27E81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "console", "nero\console.csproj", "{264EDFBA-B0AB-459A-80E8-548E52F27E81}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client", "Client\Client.csproj", "{76702442-2980-4BDA-B985-D5F55C5D0271}"
 EndProject

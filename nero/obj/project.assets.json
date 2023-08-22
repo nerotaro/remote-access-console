@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\TobiasVedøy\\.nuget\\packages\\": {}
+    "C:\\Users\\nero\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TobiasVedøy\\Documents\\GitHub\\rat\\nero\\console.csproj",
+      "projectUniqueName": "C:\\Users\\nero\\Documents\\GitHub\\rat\\nero\\console.csproj",
       "projectName": "console",
-      "projectPath": "C:\\Users\\TobiasVedøy\\Documents\\GitHub\\rat\\nero\\console.csproj",
-      "packagesPath": "C:\\Users\\TobiasVedøy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TobiasVedøy\\Documents\\GitHub\\rat\\nero\\obj\\",
+      "projectPath": "C:\\Users\\nero\\Documents\\GitHub\\rat\\nero\\console.csproj",
+      "packagesPath": "C:\\Users\\nero\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nero\\Documents\\GitHub\\rat\\nero\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\TobiasVedøy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
