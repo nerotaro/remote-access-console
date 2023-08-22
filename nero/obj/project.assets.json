@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TobiasVedøy\\Documents\\GitHub\\rat\\nero\\nero.csproj",
-      "projectName": "nero",
-      "projectPath": "C:\\Users\\TobiasVedøy\\Documents\\GitHub\\rat\\nero\\nero.csproj",
+      "projectUniqueName": "C:\\Users\\TobiasVedøy\\Documents\\GitHub\\rat\\nero\\console.csproj",
+      "projectName": "console",
+      "projectPath": "C:\\Users\\TobiasVedøy\\Documents\\GitHub\\rat\\nero\\console.csproj",
       "packagesPath": "C:\\Users\\TobiasVedøy\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\TobiasVedøy\\Documents\\GitHub\\rat\\nero\\obj\\",
       "projectStyle": "PackageReference",
