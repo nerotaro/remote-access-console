@@ -33,7 +33,7 @@ namespace Client.Commands
                 }
                 else
                 {
-                    return "Invalid arguments for beep. Requires either 0 or 1 arguments.";
+                    return "Invalid arguments for beep. Takes 0 - 1 arguments.";
                 }
             }
         }
