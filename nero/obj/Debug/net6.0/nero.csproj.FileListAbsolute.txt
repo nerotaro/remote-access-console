@@ -1,0 +1,15 @@
+C:\Users\nero\source\repos\rat\nero\nero\bin\Debug\net6.0\nero.exe
+C:\Users\nero\source\repos\rat\nero\nero\bin\Debug\net6.0\nero.deps.json
+C:\Users\nero\source\repos\rat\nero\nero\bin\Debug\net6.0\nero.runtimeconfig.json
+C:\Users\nero\source\repos\rat\nero\nero\bin\Debug\net6.0\nero.dll
+C:\Users\nero\source\repos\rat\nero\nero\bin\Debug\net6.0\nero.pdb
+C:\Users\nero\source\repos\rat\nero\nero\obj\Debug\net6.0\nero.csproj.AssemblyReference.cache
+C:\Users\nero\source\repos\rat\nero\nero\obj\Debug\net6.0\nero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nero\source\repos\rat\nero\nero\obj\Debug\net6.0\nero.AssemblyInfoInputs.cache
+C:\Users\nero\source\repos\rat\nero\nero\obj\Debug\net6.0\nero.AssemblyInfo.cs
+C:\Users\nero\source\repos\rat\nero\nero\obj\Debug\net6.0\nero.csproj.CoreCompileInputs.cache
+C:\Users\nero\source\repos\rat\nero\nero\obj\Debug\net6.0\nero.dll
+C:\Users\nero\source\repos\rat\nero\nero\obj\Debug\net6.0\refint\nero.dll
+C:\Users\nero\source\repos\rat\nero\nero\obj\Debug\net6.0\nero.pdb
+C:\Users\nero\source\repos\rat\nero\nero\obj\Debug\net6.0\nero.genruntimeconfig.cache
+C:\Users\nero\source\repos\rat\nero\nero\obj\Debug\net6.0\ref\nero.dll
