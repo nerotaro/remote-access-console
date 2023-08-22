@@ -11,9 +11,12 @@ namespace Client.Commands
 
         public CommandHandler()
         {
+            
+            //Liste av kommandoer
             this.commands = new List<Command>();
             this.commands.Add(new Beep("beep"));
             this.commands.Add(new GetName("getname"));
+            
 
         }
         public string runCommand (string cmd)
