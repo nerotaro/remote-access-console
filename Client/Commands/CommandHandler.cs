@@ -17,6 +17,7 @@ namespace Client.Commands
             this.commands.Add(new Beep("beep"));
             this.commands.Add(new GetName("getname"));
             this.commands.Add(new SystemTime("systemtime"));
+            this.commands.Add(new File("file"));
 
         }
         public string runCommand (string cmd)

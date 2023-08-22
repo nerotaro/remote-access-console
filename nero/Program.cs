@@ -2,6 +2,7 @@
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
+using console;
 
 namespace nero
 {
@@ -21,7 +22,7 @@ namespace nero
             Socket s = new Socket(AddressFamily.InterNetworkV6, SocketType.Dgram, ProtocolType.Udp);
             s.SetSocketOption(SocketOptionLevel.IPv6, SocketOptionName.IPv6Only, false);
             IPEndPoint ipep = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 14518);
-            Byte[] data = Encoding.ASCII.GetBytes(cmd);
+            Byte[] data = Encoding.UTF8.GetBytes(cmd.obfuscate());
             s.SendTo(data,ipep);
         }
         
